@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Action</Name>
+  <ProjectDir>C:\Users\leafsoar\Documents\MysticalCardCs\Action</ProjectDir>
+  <SceneJson>Action.json</SceneJson>
+  <Resources>C:\Users\leafsoar\Documents\MysticalCardCs\Action\Resources</Resources>
+  <JsonFolder>C:\Users\leafsoar\Documents\MysticalCardCs\Action\Json</JsonFolder>
+  <JsonList />
+  <fileList>
+    <string>Action0.plist</string>
+  </fileList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

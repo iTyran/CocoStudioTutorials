@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>0.2.4.1</Version>
+  <Name>ChaosFight</Name>
+  <ProjectDir>C:\Users\leafsoar\Documents\ChaosFight</ProjectDir>
+  <SceneJson>ChaosFight.json</SceneJson>
+  <Resources>C:\Users\leafsoar\Documents\ChaosFight\Resources</Resources>
+  <JsonFolder>C:\Users\leafsoar\Documents\ChaosFight\Json</JsonFolder>
+  <JsonList>
+    <string>ChaosFight_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CanvasSize>
+    <Width>1010</Width>
+    <Height>750</Height>
+  </CanvasSize>
+  <CurrentUIJson>ChaosFight_1.json</CurrentUIJson>
+</UIProject>

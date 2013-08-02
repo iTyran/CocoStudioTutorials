@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>McScene</Name>
+  <ProjectDir>C:\Users\leafsoar\Documents\MysticalCardCs\McScene</ProjectDir>
+  <SceneJson>McScene.json</SceneJson>
+  <Resources>C:\Users\leafsoar\Documents\MysticalCardCs\McScene\Resources</Resources>
+  <JsonFolder>C:\Users\leafsoar\Documents\MysticalCardCs\McScene\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>720</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <JSFileList />
+  <DefaultUI_JSList />
+</SceneProject>

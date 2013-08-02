@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>0.2.4.1</Version>
+  <Name>MysticalCard</Name>
+  <ProjectDir>C:\Users\leafsoar\Documents\MysticalCardCs\MysticalCard</ProjectDir>
+  <SceneJson>MysticalCard.json</SceneJson>
+  <Resources>C:\Users\leafsoar\Documents\MysticalCardCs\MysticalCard\Resources</Resources>
+  <JsonFolder>C:\Users\leafsoar\Documents\MysticalCardCs\MysticalCard\Json</JsonFolder>
+  <JsonList>
+    <string>MysticalCard_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CanvasSize>
+    <Width>720</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <CurrentUIJson>MysticalCard_1.json</CurrentUIJson>
+</UIProject>
